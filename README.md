@@ -1,2 +1,2 @@
 # personalProjects
-Stuff I worked on in college
+Personal projects that I've worked on
